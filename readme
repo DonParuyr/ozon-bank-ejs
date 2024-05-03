@@ -1,0 +1,19 @@
+your-project/
+│
+├── src/
+│   ├── components/
+│   │   └── ...
+│   │
+│   ├── pages/
+│   │   └── RoomPage.js
+│   │
+│   ├── services/
+│   │   └── socketService.js
+│   │
+│   ├── App.js
+│   └── index.js
+│
+├── public/
+│   └── index.html
+│
+└── server.js  (я как понял тут не сработает)
